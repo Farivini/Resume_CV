@@ -123,7 +123,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experiencia & Qulificação")
+st.subheader("Experiencia & Qualificação")
 st.write(
     """
 - ✔️ 3 anos de experiência com extração e transformação de dados em bancos : SQL, Oracle.
