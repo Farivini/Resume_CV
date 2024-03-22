@@ -144,8 +144,8 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA, DAX
-- 📊 Visualização: PowerBi, MS Excel, Plotly
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA, DAX e PHP
+- 📊 Visualização e Ferramentas: PowerBi, MS Excel, Plotly, Grafana, Apache spark, Power automate
 - 🗄️ Databases: Postgres, MongoDB, MySQL,Oracle
 """
 )
@@ -166,6 +166,8 @@ st.write(
 - ► Redesenhei junto com time de especialistas o modo de visualização e tratamento de dados na area de operações.
 
 - ► Ajudei na automação de ingestão de dados atraves de API , fornecimento de dados atraves de Paineis e Power automate
+
+- ► Participei de um projeto Yellow Belt cujo principal objetivo era melhorar a experiência do cliente através da otimização e priorização da manutenção de estações estratégicas para o negócio.
 """
 )
 
