@@ -17,7 +17,7 @@ PAGE_TITLE = "Digital CV | Vinicius Farineli Freire"
 PAGE_ICON = ":wave:"
 NAME = "Vinicius Farineli Freire"
 DESCRIPTION = """
-Consultor, formado em Big data e Engenharia da computação, apoiando a tomada de decisões baseadas em dados e automações de tarefas.
+Consultor, formado em Big data e Engenharia da computação com Pós em Data scientist, apoiando a tomada de decisões baseadas em dados e automações de tarefas.
 """
 EMAIL = "viniciusfarineli@email.com"
 
@@ -126,11 +126,11 @@ st.write('\n')
 st.subheader("Experiencia & Qualificação")
 st.write(
     """
-- ✔️ 3 anos de experiência com extração e transformação de dados em bancos : SQL, Oracle.
+- ✔️ 4 anos de experiência com extração e transformação de dados em bancos : SQL, Oracle RAC.
 
-- ✔️ 3 anos trabalhando com Power bi e Power automate.
+- ✔️ 4 anos trabalhando com Python, Power bi, Azure, Kafka e R.
 
-- ✔️ 5 anos trabalhando com Python e Excel
+- ✔️ 2 anos trabalhando com Big query e Data storage.
 
 - ✔️ Bom entendimento dos princípios estatísticos e suas respectivas aplicações
 
@@ -144,9 +144,9 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA, DAX e PHP
-- 📊 Visualização e Ferramentas: PowerBi, MS Excel, Plotly, Grafana, Apache spark, Power automate
-- 🗄️ Databases: Postgres, MongoDB, MySQL,Oracle
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas),Pyspark, SQL, VBA, DAX e Django
+- 📊 Visualização e Ferramentas: PowerBi, MS Excel, Microstrategy, Plotly, Grafana, Apache spark, Apache Kafka e Power automate
+- 🗄️ Databases: Postgres, MongoDB, MySQL,Oracle, Big query.
 """
 )
 
@@ -161,11 +161,13 @@ st.write("🚧", "**Consultor na TIM **")
 st.write("01/2021 - Presente")
 st.write(
     """
-- ► Utilizei o PowerBI e SQL para redefinir e monitorar KPIs relacionados a rede de telecomunicações, fornecendo dados para maximizar o tratamento da rede de acesso.
+- ► Utilizei o PowerBI e SQL para redefinir e monitorar KPIs relacionados a rede de telecomunicações, fornecendo dados para paineis executivos para direcionamentos estrategicos.
 
-- ► Redesenhei junto com time de especialistas o modo de visualização e tratamento de dados na area de operações.
+- ► Especializado em redefinição e criação de pipeline de dados com Kafka com criação de Dags.
 
-- ► Ajudei na automação de ingestão de dados atraves de API , fornecimento de dados atraves de Paineis e Power automate
+- ► Criação de automação de ingestão de dados atraves de API , envio de dados atraves do Azure e construção de Paineis executivos com Power bi.
+
+- ► Criação de modelos de ML com GCP - Big query, Data Storage e Vertex IA.
 
 - ► Participei de um projeto Yellow Belt cujo principal objetivo era melhorar a experiência do cliente através da otimização e priorização da manutenção de estações estratégicas para o negócio.
 """
