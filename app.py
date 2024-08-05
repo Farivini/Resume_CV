@@ -17,7 +17,7 @@ PAGE_TITLE = "Digital CV | Vinicius Farineli Freire"
 PAGE_ICON = ":wave:"
 NAME = "Vinicius Farineli Freire"
 DESCRIPTION = """
-Consultor, formado em Big data e Engenharia da computação, apoiando a tomada de decisões baseadas em dados e automações de tarefas.
+Consultor, formado em Big data e Engenharia da computação com Pós em Data scientist, apoiando a tomada de decisões baseadas em dados e automações de tarefas.
 """
 EMAIL = "viniciusfarineli@email.com"
 
