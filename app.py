@@ -28,7 +28,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "Car Sales Dashboard": {
-        "Link": "https://www.linkedin.com/services/page/7142403115320a0782/",
+        "Link": "https://app.powerbi.com/view?r=eyJrIjoiNTg4ZWNiMTUtOTViZS00NjFhLTk0YjEtYzEyODg5YjVkODdiIiwidCI6ImRlNjFmOTAxLTI1ZTYtNDIxZi1hMjViLTAwZWM1ZjAzYmY3NSJ9",
         "Descrição": "Developed a dashboard to monitor car sales, providing return on investment (ROI) metrics and revenue tracking over time. This dashboard offers valuable insights for strategic decision-making and identifying growth opportunities.",
         "Imagem": "vendas.png",
         "Video": None
