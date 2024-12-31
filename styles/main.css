@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Readex Pro', sans-serif;
+    color-scheme: light dark;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Definição de cores para o tema claro */
+@media (prefers-color-scheme: light) {
+    a {
+        color: rgb(24, 16, 20) !important;
+    }
+    a:hover {
+        color: #d33682 !important;
+    }
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+/* Definição de cores para o tema escuro */
+@media (prefers-color-scheme: dark) {
+    a {
+        color: white !important;
+    }
+    a:hover {
+        color: #d24242 !important;
+    }
+    body {
+        background-color: #1a1a1a;
+        color: white;
+    }
+}
+
+ul {
+    list-style-type: none;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
