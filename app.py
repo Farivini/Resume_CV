@@ -85,8 +85,8 @@ st.subheader("Experience & Qualifications")
 st.write(
     """
 - ✔️ 4 years of experience in data extraction and transformation with SQL, Oracle RAC.
-- ✔️ 4 years working with Python, Power BI, Azure, Kafka, and R.
-- ✔️ 2 years of experience with Big Query and Data Storage.
+- ✔️ 4 years working with Python, Power BI, Linux, and R.
+- ✔️ 2 years of experience with Big Query, Dataflow and Data Storage.
 - ✔️ Strong understanding of statistical principles and their applications.
 - ✔️ Excellent team player with a strong sense of initiative.
     """
